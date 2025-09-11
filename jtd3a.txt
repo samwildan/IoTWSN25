@@ -1,1 +1,2 @@
 No,Name,ArticleTitle,Year,Iot/WSN,Sensor,Microcontroller,Actuator,Platform,AccessNetwork
+04,ArifinIlhamZulkarnain,REVIEW OF AUTOMATIC PLAN WATERING SYSTEM WITH IOT FOR MONITORING AND CONTROLLING SOIL MOISTURE,2024,Soil moisture sensor,ESP 32 and Raspberry PI,Relay and Water Pump,Node-RED and Telegram Bot,Wifi
