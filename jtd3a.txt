@@ -1,42 +1,17 @@
 No,Name,ArticleTitle,Year,Iot/WSN,Sensor,Microcontroller,Actuator,Platform,AccessNetwork
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 8, Camelia Viona Putri, A zigbee-based wearable physiological parameters monitoring system, 2012, WSN, Wearable, Body temperature, heart rate sensors,C8051F020,Not specified,Not specified,Zigbee module
-=======
-=======
 07, Benedicta Alfiola Jokhanan, Buzzing with Intelligence: A Systematic Review of Smart Beehive Technologies, 2025, WSN, Environmental - Weather - Acoustic - Imaging - Hive Structural - Motion - Air Composition - Bee Activity Counter Sensors,not specified, not specified, b+WSN - Open Source Beehive(OSBH),LoRaWAN
 17,Refi Agustian m, An Energy Efficient and Secure IoT-Based WSN Framework: An Application to Smart Agriculture, temperature sensor-heat sensors- water sensors- moisture/humidity sensors, and air sensors,bluettoth, Network Simulator 2 (NS2), Internet/aplikasi berbasis web
 13,ilham bagus satya, 2020, IoT, Temperature sensors, light sensors, soil moisture sensors, location sensors, airflow sensors, NS2 (Network Simulator 2), Wireless (IEEE 802.11b), Internet
 12,Dimas Rifki Nugraha,2020,An Energy Efficient and Secure IoT-Based WSN Framework: An Application to Smart Agriculture, temperature sensor-heat sensors- water sensors- moisture/humidity sensors, and air sensors,bluettoth, Network Simulator 2 (NS2), Internet/aplikasi berbasis web
->>>>>>> 254ea9c2ea274303f98009c5ab6c38a0694e3326
 16, Olivira Adineema IoT Connectivity Technologies and Applications: A Survey,2020,IoT/WSN,General sensors (medical, monitoring, humidity, smart meters, agricultural),Not specified,Not specified,Not specified,Bluetooth; BLE; ZigBee; Wi-Fi; OWC; LoRa; Sigfox; NB-IoT; LTE-M; LTE; 5G
 03,Arif Rahman Hartiyan Internet of Things: A Survey on Enabling Technologies, Protocols, and Applications",2015,IoT (mencakup WSN),"temperature; humidity; motion; vibration; acceleration; location","Arduino (mis. Yún); Intel Galileo; BeagleBone; Raspberry Pi; T-Mote Sky","HVAC control; lighting & shading; appliance control","Contiki (Cooja); TinyOS; LiteOS; RIOT","Wi-Fi; Bluetooth Low Energy; IEEE 802.15.4/ZigBee; RFID; NFC; UWB; 3G/UMTS/GSM; LTE/LTE-A; Z-Wave"
 2, Aridha Ayu Salsabila, Long-Term Monitoring of Smart City Assets via Internet of Things and Low-Power Wide-Area Networks, 2020, IoT, ublox CAM-M8 GNSS - Bosch Sensortec BMA280 accelerometer - Bosch Sensortec BME280 humidity and pressure sensor, ARM, Tidak ada aktuator, Local Linux server, LoRa/LPWAN/Internet
 21,Zakky Prasert IoT Connectivity Technologies and Applications: A Survey,2020,IoT/WSN,General sensors (medical, monitoring, humidity, smart meters, agricultural),Not specified,Not specified,Not specified,Bluetooth; BLE; ZigBee; Wi-Fi; OWC; LoRa; Sigfox; NB-IoT; LTE-M; LTE; 5G
 04,ArifinIlhamZulkarnain,REVIEW OF AUTOMATIC PLAN WATERING SYSTEM WITH IOT FOR MONITORING AND CONTROLLING SOIL MOISTURE,2024,Soil moisture sensor,ESP 32 and Raspberry PI,Relay and Water Pump,Node-RED and Telegram Bot,Wifi
-<<<<<<< HEAD
->>>>>>> 2e68eab3ca65157c93446d79257969365415ad45
-=======
-<<<<<<< HEAD
-=======
->>>>>>> 254ea9c2ea274303f98009c5ab6c38a0694e3326
 10,Daffa Athoya,Internet of Things: A Survey on Enabling
 Technologies, Protocols, and Applications, 2015, Iot, Smart sensors-actuators-wearable sensing devices-RFID tags,Arduino Yun-Raspberry Pi-BeagleBone Black-UDOO-FriendlyARM-Intel Galileo, Gadgeteer-Cubieboard-Z1-WiSense-Mulle-and T-Mote Sky, Vibrating MEMS motors-vibrating actuator, Eclipse IoT (Ponte, Kura, Eclipse SCADA, Eclipse SmartHome, Krikkit), RFID-NFC-UWB-Bluetooth-Bluetooth Low Energy (BLE)-IEEE 802.15.4, Z-Wave-WiFi-LTE-Advanced (LTE-A)-GSM-UMTS.
 13,Noval Rangga Prasetyo IoT Connectivity Technologies and Applications: A Survey,2020,IoT/WSN,General sensors (medical, monitoring, humidity, smart meters, agricultural),Not specified,Not specified,Not specified,Bluetooth; BLE; ZigBee; Wi-Fi; OWC; LoRa; Sigfox; NB-IoT; LTE-M; LTE; 5G
 19,SyahrulHuda,AUTOMATIC_PLAN_WATERING_SYSTEM_WITH_IOT_FOR_MONITORING_AND_CONTROLLING_SOIL_MOISTURE,2024,IoT-WSN,SoilMoistureSensor,RASPBERRYPIE-ESP32,Water-Pump,Note-RED-Telegram,WiFi
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-=======
->>>>>>> 576442b2593b900e932c8362e65e97e207db8feb
->>>>>>> 41cf7ed6f6084f6bd6972d27c887f28477beb7cc
->>>>>>> 367a64b963c82a0887cd970111f3bdfd1cf83623
->>>>>>> 9b8f07a708737d4c19df4894fd8e9b79225ffb5e
->>>>>>> 4b6f84fa7fc8f01d7506fb9cdc2f245c689f382a
->>>>>>> 3587d6f06158a436eefa0fb4dc9ff876e1f35841
->>>>>>> 2e68eab3ca65157c93446d79257969365415ad45
-=======
 06,Awang Budi Hartanto, Buzzing with Intelligence: A Systematic Review of Smart Beehive Technologies, 2025, WSN, Environmental - Weather - Acoustic - Imaging - Hive Structural - Motion - Air Composition - Bee Activity Counter Sensors,not specified, not specified, b+WSN - Open Source Beehive(OSBH),LoRaWAN
 14,MuhammadSyahrilEP,A zigbee-based wearable physiological parameters monitoring system,2012,WSN,Wearable,Body temperature, heart rate sensors,C8051F020,Not specified,Not specified,Zigbee module
->>>>>>> 254ea9c2ea274303f98009c5ab6c38a0694e3326
