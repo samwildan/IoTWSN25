@@ -1,7 +1,5 @@
 No,Name,ArticleTitle,Year,Iot/WSN,Sensor,Microcontroller,Actuator,Platform,AccessNetwork
-<<<<<<< HEAD
 12,Dimas Rifki Nugraha,2020,An Energy Efficient and Secure IoT-Based WSN Framework: An Application to Smart Agriculture, temperature sensor-heat sensors- water sensors- moisture/humidity sensors, and air sensors,bluettoth, Network Simulator 2 (NS2), Internet/aplikasi berbasis web
-=======
 16, Olivira Adineema IoT Connectivity Technologies and Applications: A Survey,2020,IoT/WSN,General sensors (medical, monitoring, humidity, smart meters, agricultural),Not specified,Not specified,Not specified,Bluetooth; BLE; ZigBee; Wi-Fi; OWC; LoRa; Sigfox; NB-IoT; LTE-M; LTE; 5G
 03,Arif Rahman Hartiyan Internet of Things: A Survey on Enabling Technologies, Protocols, and Applications",2015,IoT (mencakup WSN),"temperature; humidity; motion; vibration; acceleration; location","Arduino (mis. Yún); Intel Galileo; BeagleBone; Raspberry Pi; T-Mote Sky","HVAC control; lighting & shading; appliance control","Contiki (Cooja); TinyOS; LiteOS; RIOT","Wi-Fi; Bluetooth Low Energy; IEEE 802.15.4/ZigBee; RFID; NFC; UWB; 3G/UMTS/GSM; LTE/LTE-A; Z-Wave"
 2, Aridha Ayu Salsabila, Long-Term Monitoring of Smart City Assets via Internet of Things and Low-Power Wide-Area Networks, 2020, IoT, ublox CAM-M8 GNSS - Bosch Sensortec BMA280 accelerometer - Bosch Sensortec BME280 humidity and pressure sensor, ARM, Tidak ada aktuator, Local Linux server, LoRa/LPWAN/Internet
