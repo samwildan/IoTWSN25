@@ -1,2 +1,33 @@
 No,Name,ArticleTitle,Year,Iot/WSN,Sensor,Microcontroller,Actuator,Platform,AccessNetwork
+<<<<<<< HEAD
 16, Olivira Adineema IoT Connectivity Technologies and Applications: A Survey,2020,IoT/WSN,General sensors (medical, monitoring, humidity, smart meters, agricultural),Not specified,Not specified,Not specified,Bluetooth; BLE; ZigBee; Wi-Fi; OWC; LoRa; Sigfox; NB-IoT; LTE-M; LTE; 5G
+=======
+<<<<<<< HEAD
+03,Arif Rahman Hartiyan Internet of Things: A Survey on Enabling Technologies, Protocols, and Applications",2015,IoT (mencakup WSN),"temperature; humidity; motion; vibration; acceleration; location","Arduino (mis. Yún); Intel Galileo; BeagleBone; Raspberry Pi; T-Mote Sky","HVAC control; lighting & shading; appliance control","Contiki (Cooja); TinyOS; LiteOS; RIOT","Wi-Fi; Bluetooth Low Energy; IEEE 802.15.4/ZigBee; RFID; NFC; UWB; 3G/UMTS/GSM; LTE/LTE-A; Z-Wave"
+=======
+<<<<<<< HEAD
+2, Aridha Ayu Salsabila, Long-Term Monitoring of Smart City Assets via Internet of Things and Low-Power Wide-Area Networks, 2020, IoT, ublox CAM-M8 GNSS - Bosch Sensortec BMA280 accelerometer - Bosch Sensortec BME280 humidity and pressure sensor, ARM, Tidak ada aktuator, Local Linux server, LoRa/LPWAN/Internet
+=======
+<<<<<<< HEAD
+21,Zakky Prasert IoT Connectivity Technologies and Applications: A Survey,2020,IoT/WSN,General sensors (medical, monitoring, humidity, smart meters, agricultural),Not specified,Not specified,Not specified,Bluetooth; BLE; ZigBee; Wi-Fi; OWC; LoRa; Sigfox; NB-IoT; LTE-M; LTE; 5G
+=======
+<<<<<<< HEAD
+04,ArifinIlhamZulkarnain,REVIEW OF AUTOMATIC PLAN WATERING SYSTEM WITH IOT FOR MONITORING AND CONTROLLING SOIL MOISTURE,2024,Soil moisture sensor,ESP 32 and Raspberry PI,Relay and Water Pump,Node-RED and Telegram Bot,Wifi
+=======
+<<<<<<< HEAD
+10,Daffa Athoya,Internet of Things: A Survey on Enabling
+Technologies, Protocols, and Applications, 2015, Iot, Smart sensors-actuators-wearable sensing devices-RFID tags,Arduino Yun-Raspberry Pi-BeagleBone Black-UDOO-FriendlyARM-Intel Galileo, Gadgeteer-Cubieboard-Z1-WiSense-Mulle-and T-Mote Sky, Vibrating MEMS motors-vibrating actuator, Eclipse IoT (Ponte, Kura, Eclipse SCADA, Eclipse SmartHome, Krikkit), RFID-NFC-UWB-Bluetooth-Bluetooth Low Energy (BLE)-IEEE 802.15.4, Z-Wave-WiFi-LTE-Advanced (LTE-A)-GSM-UMTS. 
+=======
+<<<<<<< HEAD
+=======
+13,Noval Rangga Prasetyo IoT Connectivity Technologies and Applications: A Survey,2020,IoT/WSN,General sensors (medical, monitoring, humidity, smart meters, agricultural),Not specified,Not specified,Not specified,Bluetooth; BLE; ZigBee; Wi-Fi; OWC; LoRa; Sigfox; NB-IoT; LTE-M; LTE; 5G
+>>>>>>> 863a148c771e18efed668e7466eb3f22fdd0c50d
+
+19,SyahrulHuda,AUTOMATIC_PLAN_WATERING_SYSTEM_WITH_IOT_FOR_MONITORING_AND_CONTROLLING_SOIL_MOISTURE,2024,IoT-WSN,SoilMoistureSensor,RASPBERRYPIE-ESP32,Water-Pump,Note-RED-Telegram,WiFi
+
+>>>>>>> 576442b2593b900e932c8362e65e97e207db8feb
+>>>>>>> 41cf7ed6f6084f6bd6972d27c887f28477beb7cc
+>>>>>>> 367a64b963c82a0887cd970111f3bdfd1cf83623
+>>>>>>> 9b8f07a708737d4c19df4894fd8e9b79225ffb5e
+>>>>>>> 4b6f84fa7fc8f01d7506fb9cdc2f245c689f382a
+>>>>>>> 3587d6f06158a436eefa0fb4dc9ff876e1f35841
