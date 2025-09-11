@@ -1,1 +1,2 @@
 No,Name,ArticleTitle,Year,Iot/WSN,Sensor,Microcontroller,Actuator,Platform,AccessNetwork
+2, Aridha Ayu Salsabila, Long-Term Monitoring of Smart City Assets via Internet of Things and Low-Power Wide-Area Networks, 2020, IoT, ublox CAM-M8 GNSS - Bosch Sensortec BMA280 accelerometer - Bosch Sensortec BME280 humidity and pressure sensor, ARM, Tidak ada aktuator, Local Linux server, LoRa/LPWAN/Internet
