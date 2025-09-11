@@ -1,2 +1,8 @@
 No,Name,ArticleTitle,Year,Iot/WSN,Sensor,Microcontroller,Actuator,Platform,AccessNetwork
+<<<<<<< HEAD
+=======
+13,Noval Rangga Prasetyo IoT Connectivity Technologies and Applications: A Survey,2020,IoT/WSN,General sensors (medical, monitoring, humidity, smart meters, agricultural),Not specified,Not specified,Not specified,Bluetooth; BLE; ZigBee; Wi-Fi; OWC; LoRa; Sigfox; NB-IoT; LTE-M; LTE; 5G
+>>>>>>> 863a148c771e18efed668e7466eb3f22fdd0c50d
+
 19,SyahrulHuda,AUTOMATIC_PLAN_WATERING_SYSTEM_WITH_IOT_FOR_MONITORING_AND_CONTROLLING_SOIL_MOISTURE,2024,IoT-WSN,SoilMoistureSensor,RASPBERRYPIE-ESP32,Water-Pump,Note-RED-Telegram,WiFi
+
