@@ -1,1 +1,2 @@
 No,Name,ArticleTitle,Year,Iot/WSN,Sensor,Microcontroller,Actuator,Platform,AccessNetwork
+08, Benedictus Pascal, Long-Term Monitoring of Smart City Assets via Internet of Things and Low-Power Wide-Area Networks, 2020, IoT,Bosch Sensortec BMA280 accelerometer-Bosch Sensortec BME280 humidity and pressure sensor-ublox CAM-M8 GNSS receiver ,Murata CMWXIZZABZ-078 (ARM Cortex M0+) ,None ,Local Linux Server (JSON format) ,LoRa/LPWAN
