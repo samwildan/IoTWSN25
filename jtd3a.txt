@@ -1,1 +1,2 @@
 No,Name,ArticleTitle,Year,Iot/WSN,Sensor,Microcontroller,Actuator,Platform,AccessNetwork
+15,Noval Rangga Prasert IoT Connectivity Technologies and Applications: A Survey,2020,IoT/WSN,General sensors (medical, monitoring, humidity, smart meters, agricultural),Not specified,Not specified,Not specified,Bluetooth; BLE; ZigBee; Wi-Fi; OWC; LoRa; Sigfox; NB-IoT; LTE-M; LTE; 5G
