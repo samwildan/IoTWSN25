@@ -6,3 +6,4 @@ No,Name,ArticleTitle,Year,Iot/WSN,Sensor,Microcontroller,Actuator,Platform,Acces
 
 19,SyahrulHuda,AUTOMATIC_PLAN_WATERING_SYSTEM_WITH_IOT_FOR_MONITORING_AND_CONTROLLING_SOIL_MOISTURE,2024,IoT-WSN,SoilMoistureSensor,RASPBERRYPIE-ESP32,Water-Pump,Note-RED-Telegram,WiFi
 
+14,MuhammadSyahril,A zigbee-based wearable physiological parameters monitoring system,2012,WSN,Wearable,Body temperature, heart rate sensors,C8051F020,Not specified,Not specified,Zigbee module
