@@ -23,3 +23,5 @@ Technologies, Protocols, and Applications, 2015, Iot, Smart sensors-actuators-we
 >>>>>>> 41cf7ed6f6084f6bd6972d27c887f28477beb7cc
 >>>>>>> 367a64b963c82a0887cd970111f3bdfd1cf83623
 >>>>>>> 9b8f07a708737d4c19df4894fd8e9b79225ffb5e
+
+18, Siti Romadhona Oktaviana, Buzzing with Intelligence: A Systematic Review of Smart Beehive Technologies, 2025, WSN, Environmental - Weather - Acoustic - Imaging - Hive Structural - Motion - Air Composition - Bee Activity Counter Sensors,not specified, not specified, b+WSN - Open Source Beehive(OSBH),LoRaWAN
