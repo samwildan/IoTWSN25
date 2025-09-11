@@ -1,1 +1,3 @@
 No,Name,ArticleTitle,Year,Iot/WSN,Sensor,Microcontroller,Actuator,Platform,AccessNetwork
+10,Daffa Athoya,Internet of Things: A Survey on Enabling
+Technologies, Protocols, and Applications, 2015, Iot, Smart sensors-actuators-wearable sensing devices-RFID tags,Arduino Yun-Raspberry Pi-BeagleBone Black-UDOO-FriendlyARM-Intel Galileo, Gadgeteer-Cubieboard-Z1-WiSense-Mulle-and T-Mote Sky, Vibrating MEMS motors-vibrating actuator, Eclipse IoT (Ponte, Kura, Eclipse SCADA, Eclipse SmartHome, Krikkit), RFID-NFC-UWB-Bluetooth-Bluetooth Low Energy (BLE)-IEEE 802.15.4, Z-Wave-WiFi-LTE-Advanced (LTE-A)-GSM-UMTS. 
