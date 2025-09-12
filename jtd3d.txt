@@ -1,2 +1,10 @@
 no, nama, linkedin, microcontroller-project
+<<<<<<< HEAD
 15, Muhammad Zakky Habibie, https://www.linkedin.com/in/muhammad-zakky-habibie-058917383?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app, Pakan Ikan Otomatis & Sensor Keruh air 
+=======
+05, Daffarel Auliya Putrakusuma, https://www.linkedin.com/in/daffarel-auliya-putrakusuma-41a48a28a/, Laser-Based Security System with RFID integration
+06, David Guti Firmansyah, https://www.linkedin.com/in/davidgusti/, Automatic Water Filling System-project
+11, Jibril Iqxandrio, https://www.linkedin.com/in/jibril-iqxandrio-3865b3309/, Palang Pintu Parkir Otomatis dan Pendeteksi Plat Nomor Dengan ESP32-Cam
+18, Yudhistira Dwisasi Putra, https://www.linkedin.com/in/yudhistira-putra-04826a326/, Pakan ikan otomatis berbasis IoT
+
+>>>>>>> f5c2eade7ada08c31cf88f377bc981e2ba78238a
