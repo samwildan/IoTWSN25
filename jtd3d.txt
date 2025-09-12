@@ -1,4 +1,3 @@
-no, nama, linkedin, microcontroller-project
  
 05, Daffarel Auliya Putrakusuma, https://www.linkedin.com/in/daffarel-auliya-putrakusuma-41a48a28a/, Laser-Based Security System with RFID integration
 06, David Guti Firmansyah, https://www.linkedin.com/in/davidgusti/, Automatic Water Filling System-project
@@ -8,3 +7,4 @@ no, nama, linkedin, microcontroller-project
 17, Satrio Wahyu Wibowo, https://www.linkedin.com/in/satrio-wibowo-52a277326/,Sistem Jemuran Otomatis
 18, Yudhistira Dwisasi Putra, https://www.linkedin.com/in/yudhistira-putra-04826a326/, Pakan ikan otomatis berbasis IoT
 19, Zain Zaidan, https://www.linkedin.com/in/zain-zaidan-67b215220/, Sistem Jemuran Otomatis 
+
