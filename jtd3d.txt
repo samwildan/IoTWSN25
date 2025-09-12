@@ -1,1 +1,1 @@
-no, nama, linkedin, microcontroller-project
+18, Yudhistira Dwisasi Putra, https://www.linkedin.com/in/yudhistira-putra-04826a326/, Pakan ikan otomatis berbasis IoT
