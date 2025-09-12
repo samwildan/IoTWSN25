@@ -1,6 +1,7 @@
 no, nama, linkedin, microcontroller-project
 01, Aninda Rahma Fadila, https://www.linkedin.com/in/aninda-rahma-3249ab325/, Automatic Water Filling System-project
 03, Bela Tika Rahayu, https://www.linkedin.com/in/bela-tika-rahayu-9b7936270/, Laser-Based Security System with RFID integration
+04, Cyanda Mingtekha C. R, https://www.linkedin.com/in/cyanda-mingtekha-2032b2315/, Sistem Jemuran Otomatis
 05, Daffarel Auliya Putrakusuma, https://www.linkedin.com/in/daffarel-auliya-putrakusuma-41a48a28a/, Laser-Based Security System with RFID integration
 06, David Guti Firmansyah, https://www.linkedin.com/in/davidgusti/, Automatic Water Filling System-project
 08, Firdian Arshandy, https://www.linkedin.com/in/firdian-arshandy/, Pakan Ikan Otomatis Berbasis IoT & Sensor Keruh Air
