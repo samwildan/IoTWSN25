@@ -3,6 +3,7 @@
 06, David Guti Firmansyah, https://www.linkedin.com/in/davidgusti/, Automatic Water Filling System-project
 11, Jibril Iqxandrio, https://www.linkedin.com/in/jibril-iqxandrio-3865b3309/, Palang Pintu Parkir Otomatis dan Pendeteksi Plat Nomor Dengan ESP32-Cam
 13. M. Fata 'Ishomi Septian Afandi, www.linkedin.com/in/fata-jtd-874058384/, Laser-Based Security System with RFID integration
+14, Mochamad Rizqi Nur'Azmi, www.linkedin.com/in/mochamad-rizqi-nur-azmi-383602376, Laser-Based Security System With RFID Integration
 15, Muhammad Zakky Habibie, https://www.linkedin.com/in/muhammad-zakky-habibie-058917383/, Pakan Ikan Otomatis & Sensor Keruh air
 16, Nursyam Hidayah, https://www.linkedin.com/in/nursyam-hidayah-527446384/, Sistem Jemuran Otomatis
 17, Satrio Wahyu Wibowo, https://www.linkedin.com/in/satrio-wibowo-52a277326/,Sistem Jemuran Otomatis
