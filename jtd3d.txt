@@ -3,4 +3,4 @@ no, nama, linkedin, microcontroller-project
 06, David Guti Firmansyah, https://www.linkedin.com/in/davidgusti/, Automatic Water Filling System-project
 11, Jibril Iqxandrio, https://www.linkedin.com/in/jibril-iqxandrio-3865b3309/, Palang Pintu Parkir Otomatis dan Pendeteksi Plat Nomor Dengan ESP32-Cam
 18, Yudhistira Dwisasi Putra, https://www.linkedin.com/in/yudhistira-putra-04826a326/, Pakan ikan otomatis berbasis IoT
-
+02,Arif Satrio Ivander Prasetyo,https://www.linkedin.com/in/arif-satrio-ivander-prasetyo-974812326/, Automatic Water Filling System-project
