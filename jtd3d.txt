@@ -1,12 +1,3 @@
 no, nama, linkedin, microcontroller-project
-
-
-
-
-
-
-
-
-
-
+06, David Guti Firmansyah, https://www.linkedin.com/in/davidgusti/, Automatic Water Filling System-project
 11, Jibril Iqxandrio, https://www.linkedin.com/in/jibril-iqxandrio-3865b3309/, Palang Pintu Parkir Otomatis dan Pendeteksi Plat Nomor Dengan ESP32-Cam
