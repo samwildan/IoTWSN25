@@ -1,1 +1,12 @@
 no, nama, linkedin, microcontroller-project
+
+
+
+
+
+
+
+
+
+
+11, Jibril Iqxandrio, https://www.linkedin.com/in/jibril-iqxandrio-3865b3309/, Palang Pintu Parkir Otomatis dan Pendeteksi Plat Nomor Dengan ESP32-Cam
