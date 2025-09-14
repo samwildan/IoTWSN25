@@ -5,6 +5,7 @@ no, nama, linkedin, microcontroller-project
 04, Cyanda Mingtekha C. R, https://www.linkedin.com/in/cyanda-mingtekha-2032b2315/, Sistem Jemuran Otomatis
 05, Daffarel Auliya Putrakusuma, https://www.linkedin.com/in/daffarel-auliya-putrakusuma-41a48a28a/, Laser-Based Security System with RFID integration
 06, David Guti Firmansyah, https://www.linkedin.com/in/davidgusti/, Automatic Water Filling System-project
+07, Ela Lefiana Afendi, www.linkedin.com/in/ela-lefiana-afendi-7a1054384, Smart Parking System 
 08, Firdian Arshandy, https://www.linkedin.com/in/firdian-arshandy/, Pakan Ikan Otomatis Berbasis IoT & Sensor Keruh Air
 09, Geovanni glenn, https://www.linkedin.com/in/geovanni-glenn-393056384/, Palang Pintu Parkir Otomatis dan Pendeteksi Plat Nomor Dengan ESP32-Cam
 10, Icha Fitri Novitasari, https://www.linkedin.com/in/icha-fitri-novitasari-894b07383/, Pakan Ikan Otomatis & Sensor Keruh air
