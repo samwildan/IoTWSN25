@@ -17,5 +17,9 @@ no, nama, linkedin, proj-uc, sensor
 =======
 18, tsabit, tsabit Muhammad zimran, smart home, dht11
 13,aqil, Muhammad Aqil Azzahir, Water Quality Monitoring System and Automatic Fish Feeder, PH 450 2C
+<<<<<<< HEAD
 
 >>>>>>> 4c1c0e5d8a9ee431f5e15509a1025e05da260d31
+=======
+19, Zul, Zul Ismar Nasution, smart stick, Ultrasonic_sensorhujan
+>>>>>>> ecdeb3956680e3531a741356aaccb1d993106618
