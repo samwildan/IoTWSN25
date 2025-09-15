@@ -9,3 +9,4 @@ no, nama, linkedin, proj-uc, sensor
 >>>>>>> 502faf98cdad2b35450dce5c0c1aad8dca6defec
 08, Hafid, Hafid Ferdiansyah, Smart Door Lock, RFID
 04, deva, Deva Irta Fauzya, smart home, dht11
+18, tsabit, tsabit Muhammad zimran, smart home, dht11
