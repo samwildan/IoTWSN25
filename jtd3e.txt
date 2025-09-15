@@ -1,15 +1,10 @@
-<<<<<<< HEAD
-08, Hafid Hafid Ferdiansyah, Smart Door Lock, RFID
-=======
 no, nama, linkedin, proj-uc, sensor
 11, ziven, akun, project, dht11
 10, ardi, MOCH ARDIANSYAH,smart_stick,Ultrasonic_sensorhujan
 3, Rissa, Carissa Rafa, Smart Door Lock, RFID
 1, adit, HP,smart_stick,Ultrasonic_sensorhujan
->>>>>>> 502faf98cdad2b35450dce5c0c1aad8dca6defec
 08, Hafid, Hafid Ferdiansyah, Smart Door Lock, RFID
-<<<<<<< HEAD
-9, Lorent Cascha, Pakan Otomatis, servo
-=======
 04, deva, Deva Irta Fauzya, smart home, dht11
->>>>>>> d68a9c6551ad65770649e2952e3ebe2591d32c16
+04, deva, Deva Irta Fauzya, smart home, dht11
+13,aqil, Muhammad Aqil Azzahir, Water Quality Monitoring System and Automatic Fish Feeder, PH 450 2C
+09, Lorent Cascha, Pakan Otomatis, servo
