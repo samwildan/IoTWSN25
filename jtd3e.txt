@@ -7,7 +7,8 @@ no, nama, linkedin, proj-uc, sensor
 1, adit, HP,smart_stick,Ultrasonic_sensorhujan
 08, Hafid, Hafid Ferdiansyah, Smart Door Lock, RFID
 04, deva, Deva Irta Fauzya, smart home, dht11
+<<<<<<< HEAD
 04, deva, Deva Irta Fauzya, smart home, dht11
 13,aqil, Muhammad Aqil Azzahir, Water Quality Monitoring System and Automatic Fish Feeder, PH 450 2C
 13,aqil, Muhammad Aqil Azzahir, Water Quality Monitoring System and Automatic Fish Feeder, PH 450 2C
-09, Lorent Cascha, Pakan otomatis, Servo
+09, Lorent Cascha, Pakan otomatis, servo
