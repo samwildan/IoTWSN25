@@ -8,4 +8,8 @@ no, nama, linkedin, proj-uc, sensor
 1, adit, HP,smart_stick,Ultrasonic_sensorhujan
 >>>>>>> 502faf98cdad2b35450dce5c0c1aad8dca6defec
 08, Hafid, Hafid Ferdiansyah, Smart Door Lock, RFID
+<<<<<<< HEAD
 9, Lorent Cascha, Pakan Otomatis, servo
+=======
+04, deva, Deva Irta Fauzya, smart home, dht11
+>>>>>>> d68a9c6551ad65770649e2952e3ebe2591d32c16
