@@ -1,16 +1,20 @@
 no, nama, linkedin, proj-uc, sensor
-11, ziven, akun, project, dht11
+11, ziven, Mochamad Luhung Ziven Savero, Water Quality Monitoring System and Automatic Fish Feeder, PH 450 2C
 10, ardi, MOCH ARDIANSYAH,smart_stick,Ultrasonic_sensorhujan
 1, adit,Adithia Maulana Suryadi,HP,smart_stick,Ultrasonic_sensorhujan
 6,zahra,Fatimah Zahra,smart_stick,Ultrasonic_sensorhujan
 3, Rissa, Carissa Rafa, Smart Door Lock, RFID
 1, adit, HP,smart_stick,Ultrasonic_sensorhujan
 08, Hafid, Hafid Ferdiansyah, Smart Door Lock, RFID
-02, Anindya, Anindya Dika Ramadhani, Pakan Ikan Otomatis,PH4502C
+02, Anindya, Anindya Dika Ramadhani, Water Quality Monitoring System and Automatic Fish Feeder, PH 450 2C
 17, Abi, rafky rayhan abimanyu, Smart_stick, ultrasonic-sensorhujan
 04, deva, Deva Irta Fauzya, smart home, dht11
-13,aqil, Muhammad Aqil Azzahir, Water Quality Monitoring System and Automatic Fish Feeder, PH 450 2C
-09, Lorent Cascha, Pakan otomatis, servo
+13, aqil, Muhammad Aqil Azzahir, Water Quality Monitoring System and Automatic Fish Feeder, PH 450 2C
+09, Lorent Cascha, Water Quality Monitoring System and Automatic Fish Feeder, PH 450 2C
 18, tsabit, tsabit Muhammad zimran, smart home, dht11
 14, ilham, Muhammad Ilham, Smart Door Lock, RFID
 19, Zul, Zul Ismar Nasution, smart stick, Ultrasonic_sensorhujan
+15, Faiz, faiz ansharullah, smart home, DHT11
+07, hafid, Hafid Aziz tabassam, Smart Door, RFID
+14, Emil, Emilian ., smart home, DHT11
+05, Dimas, Dimas Adisyahrul, Water Quality Monitoring System and Automatic Fish Feeder, PH 450 2C
