@@ -8,10 +8,22 @@ no, nama, linkedin, proj-uc, sensor
 08, Hafid, Hafid Ferdiansyah, Smart Door Lock, RFID
 17, Abi, rafky rayhan abimanyu, Smart_stick, ultrasonic-sensorhujan
 04, deva, Deva Irta Fauzya, smart home, dht11
+<<<<<<< HEAD
+<<<<<<< HEAD
+04, deva, Deva Irta Fauzya, smart home, dht11
+13,aqil, Muhammad Aqil Azzahir, Water Quality Monitoring System and Automatic Fish Feeder, PH 450 2C
+13,aqil, Muhammad Aqil Azzahir, Water Quality Monitoring System and Automatic Fish Feeder, PH 450 2C
+09, Lorent Cascha, Pakan otomatis, servo
+=======
 18, tsabit, tsabit Muhammad zimran, smart home, dht11
 13,aqil, Muhammad Aqil Azzahir, Water Quality Monitoring System and Automatic Fish Feeder, PH 450 2C
 <<<<<<< HEAD
+<<<<<<< HEAD
 14, ilham, Muhammad Ilham, Smart Door Lock, RFID
+=======
+
+>>>>>>> 4c1c0e5d8a9ee431f5e15509a1025e05da260d31
+>>>>>>> 2600771b8784a6ca2fd1d68079bf9754fffc6731
 =======
 19, Zul, Zul Ismar Nasution, smart stick, Ultrasonic_sensorhujan
 >>>>>>> ecdeb3956680e3531a741356aaccb1d993106618
