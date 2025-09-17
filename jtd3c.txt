@@ -1,9 +1,8 @@
 ﻿no, nama , github, linkedin, artikel, tahun, sensor, uc, actuator, platform
-<<<<<<< HEAD
 01, Fatur, AhmadMarifaturKhoiron, linkedinku
 
 08, Izzati, izzatinursetyaa, linkedinku
-=======
+
 01,
 Ahmad Ma'rifatur Khoiron,
 AhmadMarifaturKhoiron,
@@ -21,15 +20,16 @@ NodeMCU ESP32,
 • Arduino IDE & Visual Studio Code : Untuk pemrograman mikrokontroler dan
 pengembangan aplikasi web.
 
-<<<<<<< HEAD
-
-
 
 13, Nesya Rahmania Fuanny,nesyarahmaniaa.sys,Implementasi Wireless Sensor Network pada Pendeteksi Tanah Longsor Berbasis Internet of Things (IoT) dan LoRa, April 2025,
 MPU6050 (gyroscope/accelerometer), YL-69 Soil Moisture Sensor, GPS Neo-6M, Arduino Nano, ESP32, Buzzer, Adafruit IO, Telegram
 
-=======
 08, Izzati Nursetya, izzatinursetyaa, 
 
 11, Muhammad Fadhil N., Fadhilnugraha13,
->>>>>>> 4962d5946b86f6ef605625b2225acaf8f1123468
+
+no, nama , github, linkedin, artikel, tahun, sensor, uc, actuator, platform
+01,Ahmad Ma'rifatur Khoiron,AhmadMarifaturKhoiron, https://www.linkedin.com/in/ahmad-ma-rifatur-khoiron-15b975291?, Penerapan Jaringan Sensor Nirkabel dan Internet of Things (IoT) pada Pertanian Terpadu,2024, DHT11, NodeMCU ESP32, Motor Servo, Arduino IDE
+08, Izzati Nursetya, izzatinursetyaa, 
+11, Muhammad Fadhil N., Fadhilnugraha13,
+
