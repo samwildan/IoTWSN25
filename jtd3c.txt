@@ -1,9 +1,9 @@
 no, nama , github, linkedin, artikel, tahun, sensor, uc, actuator, platform
 01,Ahmad Ma'rifatur Khoiron,AhmadMarifaturKhoiron, https://www.linkedin.com/in/ahmad-ma-rifatur-khoiron-15b975291?, Penerapan Jaringan Sensor Nirkabel dan Internet of Things (IoT) pada Pertanian Terpadu,2024, DHT11, NodeMCU ESP32, Motor Servo, Arduino IDE
-08, Izzati Nursetya, izzatinursetyaa, 
-<<<<<<< HEAD
-05, Danny Ardiansyah, Towengg,
 04, Bayu Ferdyan Pratiknyo, Bayufrdyn,
-=======
+05, Danny Ardiansyah, Towengg,
+08, Izzati Nursetya, izzatinursetyaa, 
+10,Mochamad Agung Adi Saputra,agungssaputra,
 11, Muhammad Fadhil N., Fadhilnugraha13,
->>>>>>> 6bbd0c0c5d6f2875fcaa4d44121cb3f5c7577553
+
+
