@@ -21,4 +21,4 @@ NodeMCU ESP32,
 • Arduino IDE & Visual Studio Code : Untuk pemrograman mikrokontroler dan
 pengembangan aplikasi web.
 
-08, Izzati Nursetya, izzatinursetyaa, 
+08, Izzati Nursetya, izzatinursetyaa, www.linkedin.com/in/izzati-nursetya-812205272, Pengembangan Model Aplikasi Smart Farming Berbasis Internet of Things (IoT), 2025, Sensor DHT11 & Sensor DS18B20, Relay, Firebase & Android App (Jembatani App)
