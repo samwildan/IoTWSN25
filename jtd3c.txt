@@ -23,4 +23,8 @@ pengembangan aplikasi web.
 
 08, Izzati Nursetya, izzatinursetyaa, 
 
+<<<<<<< HEAD
 02, Andini Safira Yuniarti, andinisafiraa10,
+=======
+11, Muhammad Fadhil N., Fadhilnugraha13,
+>>>>>>> 4962d5946b86f6ef605625b2225acaf8f1123468
