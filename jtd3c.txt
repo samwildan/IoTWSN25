@@ -17,3 +17,5 @@ NodeMCU ESP32,
 pengembangan aplikasi web.
 
 08, Izzati Nursetya, izzatinursetyaa, 
+
+11, Muhammad Fadhil N., Fadhilnugraha13,
