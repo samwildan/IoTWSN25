@@ -39,34 +39,15 @@ pengembangan aplikasi web.
 no, nama , github, linkedin, artikel, tahun, sensor, uc, actuator, platform
 ﻿no, nama , github, linkedin, artikel, tahun, sensor, uc, actuator, platform
 01,Ahmad Ma'rifatur Khoiron,AhmadMarifaturKhoiron, https://www.linkedin.com/in/ahmad-ma-rifatur-khoiron-15b975291?, Penerapan Jaringan Sensor Nirkabel dan Internet of Things (IoT) pada Pertanian Terpadu,2024, DHT11, NodeMCU ESP32, Motor Servo, Arduino IDE
-<<<<<<< HEAD
 08, Izzati Nursetya, izzatinursetyaa, 
-<<<<<<< HEAD
->>>>>>> 5db1fd46bc026ab7c6e04687ad2e1c41fd2b1067
-=======
-<<<<<<< HEAD
 05, Danny Ardiansyah, Towengg,
-=======
->>>>>>> d4c6daa2e08aa26c7faab9bfe656f9b71a6e4a76
 04, Bayu Ferdyan Pratiknyo, Bayufrdyn,
 05, Danny Ardiansyah, Towengg,
 08, Izzati Nursetya, izzatinursetyaa, 
 10,Mochamad Agung Adi Saputra,agungssaputra,
 11, Muhammad Fadhil N., Fadhilnugraha13,
 12. Muhammad Haikal Fatar, YazzHax
-<<<<<<< HEAD
->>>>>>> Vz+Gnwu8QRmyspact/l3EDd5h8R5w9CIiYNbgzGUa9A
->>>>>>> ed789fc (Update jtd3c.txt)
->>>>>>> 6162d6aa7677fcbcda186f4e8125d07ea85b9360
-
-
-
-
-
-
-
-
+14, Paris Alfatier Rigan, parisrigan, Penerapan Jaringan Sensor Nirkabel dan Internet of Things (IoT) pada Pertanian Terpadu,2024, DHT11, NodeMCU ESP32, Motor Servo, Arduino IDE
 17, Regan Ahmad Dabit, reganjtd, https://www.linkedin.com/in/regan-ahmad-663200385, Perancangan Sistem MonitoringKelembaban Tanah dan Penyiraman Otomatis Berbasis Wireless Sensor NetworkDengan LoRa,2024,Lynx32 Lora ,Relay modul & Water valve ,LCD Display 16x2
+18, Riyas Abdul Rahman, Riyasabd, LoRa Network-Based System for Monitoring the Agricultural Sector in Andean Areas: Case Study Ecuador, 2022, DHT21 & ML8511, ESP32, Relay, Thinger.io
 
-=======
->>>>>>> d4c6daa2e08aa26c7faab9bfe656f9b71a6e4a76
