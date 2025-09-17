@@ -8,10 +8,18 @@ Safira Yuniarti, andinisafiraa10,
 07, Gilang Wahyu Setiawan, GilangWS137
 08, Izzati Nursetya, izzatinursetyaa, www.linkedin.com/in/izzati-nursetya-812205272, Pengembangan Model Aplikasi Smart Farming Berbasis Internet of Things (IoT), 2025, Sensor DHT11 & Sensor DS18B20, Relay, Firebase & Android App (Jembatani App)
 09, Kevin Adrian Cavalera, kevincavalera99-ctrl, https://id.linkedin.com/in/kevin-cavalera-5a0b6221b, Pengembangan Model Aplikasi Smart Farming Berbasis Internet of Things (IoT), 2025, (DHT11; Soil Moisture Sensor; DS18B20), (Relay; Pompa air), (ESP32 Wifi; Firebase Cloud),(Firebase Realtime Database; Jembatani App)
+<<<<<<< HEAD
 10,
 11, Muhammad Fadhil N., Fadhilnugraha13,
 12. Muhammad Haikal Fatar, YazzHax
 13. Nesya Rahmania, nesyarahmaniaa.sys, 
 14, Paris Alfatier Rigan, parisrigan, Penerapan Jaringan Sensor Nirkabel dan Internet of Things (IoT) pada Pertanian Terpadu,2024, DHT11, NodeMCU ESP32, Motor Servo, Arduino IDE
+=======
+11, Muhammad Fadhil N., Fadhilnugraha13,
+12. Muhammad Haikal Fatar, YazzHax
+13. Nesya Rahmania, nesyarahmaniaa.sys
+14, Paris Alfatier Rigan, parisrigan, Penerapan Jaringan Sensor Nirkabel dan Internet of Things (IoT) pada Pertanian Terpadu,2024, DHT11, NodeMCU ESP32, Motor Servo, Arduino IDE
+15. Rafi Arviansyah, RafiArviansyah
+>>>>>>> a147912560d56f5b7b1cce8bad3d300518770f4b
 17, Regan Ahmad Dabit, reganjtd, https://www.linkedin.com/in/regan-ahmad-663200385, Perancangan Sistem MonitoringKelembaban Tanah dan Penyiraman Otomatis Berbasis Wireless Sensor NetworkDengan LoRa,2024,Lynx32 Lora ,Relay modul & Water valve ,LCD Display 16x2
 18, Riyas Abdul Rahman, Riyasabd, LoRa Network-Based System for Monitoring the Agricultural Sector in Andean Areas: Case Study Ecuador, 2022, DHT21 & ML8511, ESP32, Relay, Thinger.io
