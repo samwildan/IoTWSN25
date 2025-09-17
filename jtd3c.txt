@@ -1,17 +1,72 @@
 ﻿no, nama , github, linkedin, artikel, tahun, sensor, uc, actuator, platform
 01,Ahmad Ma'rifatur Khoiron,AhmadMarifaturKhoiron, https://www.linkedin.com/in/ahmad-ma-rifatur-khoiron-15b975291?, Penerapan Jaringan Sensor Nirkabel dan Internet of Things (IoT) pada Pertanian Terpadu,2024, DHT11, NodeMCU ESP32, Motor Servo, Arduino IDE
 02, Andini Safira Yuniarti, andinisafiraa10,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+03,
+=======
+<<<<<<< HEAD
+08, Izzati Nursetya, izzatinursetyaa, 
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+02, Andini Safira Yuniarti, andinisafiraa10,
+=======
+07, Gilang Wahyu Setiawan, GilangWS137
+05, Danny Ardiansyah, Towengg,
+04, Bayu Ferdyan Pratiknyo, Bayufrdyn,
+>>>>>>> b927a67 (commitsatu)
+=======
+11, Muhammad Fadhil N., Fadhilnugraha13,
+>>>>>>> 4962d5946b86f6ef605625b2225acaf8f1123468
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 39afc4649194927dcfdf90bc2ef739cad6149b93
+05, Danny Ardiansyah, Towengg,
+=======
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> eadba76837f163bec13cf73f10cf4780c60521c5
+<<<<<<< HEAD
+>>>>>>> d883b47b4906c1607622cb34f00eba3150321dd1
+=======
+=======
+>>>>>>> ebb6d3a2f800f44effac2fba90db8afc37779d58
+>>>>>>> 39afc4649194927dcfdf90bc2ef739cad6149b93
+=======
+<<<<<<< HEAD
+09, Kevin Adrian Cavalera, kevincavalera99-ctrl, https://id.linkedin.com/in/kevin-cavalera-5a0b6221b, Pengembangan Model Aplikasi Smart Farming Berbasis Internet of Things (IoT), 2025, (DHT11; Soil Moisture Sensor; DS18B20), (Relay; Pompa air), (ESP32 Wifi; Firebase Cloud),(Firebase Realtime Database; Jembatani App)
+
+=======
+>>>>>>> 44abc7e4324c80139f44728ef7cba7dff1922b89
+>>>>>>> d70507df81a272fa6c6295a041165daa56d84c33
+>>>>>>> 9f78261b2f11f3cbbd6add0d3f1e0b5b9d9babb9
 04, Bayu Ferdyan Pratiknyo, Bayufrdyn,
 05, Danny Ardiansyah, Towengg,
 06, Davina Oka Amelia Putri Dika, davinaoka, https://www.linkedin.com/in/davina-oka-amelia-putri-dika-99220b385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app, Pengembangan Model Aplikasi Smart Farming Berbasis Internet of Things (IoT), 2025, Sensor DHT11 & Sensor DS18B20, Relay, Firebase & Android App (Jembatani App)
 07, Gilang Wahyu Setiawan, GilangWS137
 08, Izzati Nursetya, izzatinursetyaa, www.linkedin.com/in/izzati-nursetya-812205272, Pengembangan Model Aplikasi Smart Farming Berbasis Internet of Things (IoT), 2025, Sensor DHT11 & Sensor DS18B20, Relay, Firebase & Android App (Jembatani App)
 09, Kevin Adrian Cavalera, kevincavalera99-ctrl, https://id.linkedin.com/in/kevin-cavalera-5a0b6221b, Pengembangan Model Aplikasi Smart Farming Berbasis Internet of Things (IoT), 2025, (DHT11; Soil Moisture Sensor; DS18B20), (Relay; Pompa air), (ESP32 Wifi; Firebase Cloud),(Firebase Realtime Database; Jembatani App)
+<<<<<<< HEAD
 11, Muhammad Fadhil N., Fadhilnugraha13,
 12. Muhammad Haikal Fatar, YazzHax
 13. Nesya Rahmania, nesyarahmaniaa.sys
 14, Paris Alfatier Rigan, parisrigan, Penerapan Jaringan Sensor Nirkabel dan Internet of Things (IoT) pada Pertanian Terpadu,2024, DHT11, NodeMCU ESP32, Motor Servo, Arduino IDE
 15. Rafi Arviansyah, RafiArviansyah
+=======
+10,
+11, Muhammad Fadhil N., Fadhilnugraha13,
+12. Muhammad Haikal Fatar, YazzHax
+13. Nesya Rahmania, nesyarahmaniaa.sys, www.linkedin.com/in/nesya-rahmania-fuannyy, Implementasi Wireless Sensor Network pada Pendeteksi Tanah Longsor Berbasis Internet of Things (IoT) dan LoRa, April 2025, MPU6050 (gyroscope/accelerometer), YL-69 Soil Moisture Sensor,  GPS Neo-6M, Arduino Nano, ESP32, Buzzer, Adafruit IO, Telegram.
+14, Paris Alfatier Rigan, parisrigan, Penerapan Jaringan Sensor Nirkabel dan Internet of Things (IoT) pada Pertanian Terpadu,2024, DHT11, NodeMCU ESP32, Motor Servo, Arduino IDE
+15. Rafi Arviansyah, RafiArviansyah
+16,
+>>>>>>> 9f78261b2f11f3cbbd6add0d3f1e0b5b9d9babb9
 17, Regan Ahmad Dabit, reganjtd, https://www.linkedin.com/in/regan-ahmad-663200385, Perancangan Sistem MonitoringKelembaban Tanah dan Penyiraman Otomatis Berbasis Wireless Sensor NetworkDengan LoRa,2024,Lynx32 Lora ,Relay modul & Water valve ,LCD Display 16x2
 18, Riyas Abdul Rahman, Riyasabd, LoRa Network-Based System for Monitoring the Agricultural Sector in Andean Areas: Case Study Ecuador, 2022, DHT21 & ML8511, ESP32, Relay, Thinger.io
 
