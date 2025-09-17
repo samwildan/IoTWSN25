@@ -4,9 +4,14 @@
 05, Danny Ardiansyah, Towengg,
 04, Bayu Ferdyan Pratiknyo, Bayufrdyn,
 05, Danny Ardiansyah, Towengg,
+<<<<<<< HEAD
+06, Davina Oka Amelia Putri Dika, davinaoka, https://www.linkedin.com/in/davina-oka-amelia-putri-dika-99220b385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app, Pengembangan Model Aplikasi Smart Farming Berbasis Internet of Things (IoT), 2025, Sensor DHT11 & Sensor DS18B20, Relay, Firebase & Android App (Jembatani App)
+08, Izzati Nursetya, izzatinursetyaa, www.linkedin.com/in/izzati-nursetya-812205272, Pengembangan Model Aplikasi Smart Farming Berbasis Internet of Things (IoT), 2025, Sensor DHT11 & Sensor DS18B20, Relay, Firebase & Android App (Jembatani App)
+=======
 07, Gilang Wahyu Setiawan, GilangWS137
 08, Izzati Nursetya, izzatinursetyaa, 
 09, Kevin Adrian Cavalera, kevincavalera99-ctrl, https://id.linkedin.com/in/kevin-cavalera-5a0b6221b, Pengembangan Model Aplikasi Smart Farming Berbasis Internet of Things (IoT), 2025, (DHT11; Soil Moisture Sensor; DS18B20), (Relay; Pompa air), (ESP32 Wifi; Firebase Cloud),(Firebase Realtime Database; Jembatani App)
+>>>>>>> 46e14a57cf4b9777ee7878b0287e20aa1d7b3571
 11, Muhammad Fadhil N., Fadhilnugraha13,
 12. Muhammad Haikal Fatar, YazzHax
 14, Paris Alfatier Rigan, parisrigan, Penerapan Jaringan Sensor Nirkabel dan Internet of Things (IoT) pada Pertanian Terpadu,2024, DHT11, NodeMCU ESP32, Motor Servo, Arduino IDE
