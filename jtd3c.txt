@@ -1,0 +1,1 @@
+no, nama , github, linkedin, artikel, tahun, sensor, uc, actuator, platform
