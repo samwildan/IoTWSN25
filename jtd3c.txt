@@ -5,16 +5,35 @@
 05, Danny Ardiansyah, Towengg,
 =======
 
+<<<<<<< HEAD
 >>>>>>> ebb6d3a2f800f44effac2fba90db8afc37779d58
+=======
+<<<<<<< HEAD
+09, Kevin Adrian Cavalera, kevincavalera99-ctrl, https://id.linkedin.com/in/kevin-cavalera-5a0b6221b, Pengembangan Model Aplikasi Smart Farming Berbasis Internet of Things (IoT), 2025, (DHT11; Soil Moisture Sensor; DS18B20), (Relay; Pompa air), (ESP32 Wifi; Firebase Cloud),(Firebase Realtime Database; Jembatani App)
+
+=======
+>>>>>>> 44abc7e4324c80139f44728ef7cba7dff1922b89
 04, Bayu Ferdyan Pratiknyo, Bayufrdyn,
 05, Danny Ardiansyah, Towengg,
+07, Gilang Wahyu Setiawan, GilangWS137
+>>>>>>> fb58c0b6b12481fc1729b85e2da8fcfddcbf1564
 08, Izzati Nursetya, izzatinursetyaa, 
+09, Kevin Adrian Cavalera, kevincavalera99-ctrl, https://id.linkedin.com/in/kevin-cavalera-5a0b6221b, Pengembangan Model Aplikasi Smart Farming Berbasis Internet of Things (IoT), 2025, (DHT11; Soil Moisture Sensor; DS18B20), (Relay; Pompa air), (ESP32 Wifi; Firebase Cloud),(Firebase Realtime Database; Jembatani App)
 11, Muhammad Fadhil N., Fadhilnugraha13,
 12. Muhammad Haikal Fatar, YazzHax
 <<<<<<< HEAD
 14, Paris Alfatier Rigan, parisrigan, Penerapan Jaringan Sensor Nirkabel dan Internet of Things (IoT) pada Pertanian Terpadu,2024, DHT11, NodeMCU ESP32, Motor Servo, Arduino IDE
 =======
 13. Nesya Rahmania, nesyarahmaniaa.sys, 
+15. Rafi Arviansyah, RafiArviansyah
+
+
+
+
+
+
+
+
 
 >>>>>>> ebb6d3a2f800f44effac2fba90db8afc37779d58
 17, Regan Ahmad Dabit, reganjtd, https://www.linkedin.com/in/regan-ahmad-663200385, Perancangan Sistem MonitoringKelembaban Tanah dan Penyiraman Otomatis Berbasis Wireless Sensor NetworkDengan LoRa,2024,Lynx32 Lora ,Relay modul & Water valve ,LCD Display 16x2
