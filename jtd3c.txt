@@ -2,3 +2,6 @@ no, nama , github, linkedin, artikel, tahun, sensor, uc, actuator, platform
 <<<<<<< HEAD
 17,Regan Ahmad Dabit,reganjtd,linkedingua
 
+=======
+01, Fatur, AhmadMarifaturKhoiron, linkedinku
+>>>>>>> b8f6a3f43326d03bbbbcabb49b552a6200698ae2
