@@ -1,4 +1,24 @@
-no, nama , github, linkedin, artikel, tahun, sensor, uc, actuator, platform
+﻿no, nama , github, linkedin, artikel, tahun, sensor, uc, actuator, platform
+<<<<<<< HEAD
 01, Fatur, AhmadMarifaturKhoiron, linkedinku
 
 08, Izzati, izzatinursetyaa, linkedinku
+=======
+01,
+Ahmad Ma'rifatur Khoiron,
+AhmadMarifaturKhoiron,
+https://www.linkedin.com/in/ahmad-ma-rifatur-khoiron-15b975291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app,
+Penerapan Jaringan Sensor Nirkabel dan Internet of Things (IoT) pada Pertanian Terpadu,
+5, April 2024,
+• DHT11 : Mengukur suhu dan kelembaban udara.• DS18B20 : Mengukur suhu air.• DF Robot Gravity v2 : Mengukur pH air., 
+NodeMCU ESP32, 
+• Relay : Mengontrol pompa air DC dan motor servo.
+• Pompa Air DC : Mengalirkan air dari kolam ke pipa paralon.
+• Motor Servo : Menggerakkan mekanisme pemberian pakan ikan secara otomatis.,
+• Website aplikasi : Sebagai antarmuka pengguna.
+• Firebase : Database real-time berbasis cloud.
+• XAMPP & MySQL : Pengelolaan database lokal.
+• Arduino IDE & Visual Studio Code : Untuk pemrograman mikrokontroler dan
+pengembangan aplikasi web.
+
+08, Izzati Nursetya, izzatinursetyaa, 
