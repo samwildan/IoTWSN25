@@ -1,28 +1,35 @@
 ﻿no, nama , github, linkedin, artikel, tahun, sensor, uc, actuator, platform
+01,Ahmad Ma'rifatur Khoiron,AhmadMarifaturKhoiron, https://www.linkedin.com/in/ahmad-ma-rifatur-khoiron-15b975291?, Penerapan Jaringan Sensor Nirkabel dan Internet of Things (IoT) pada Pertanian Terpadu,2024, DHT11, NodeMCU ESP32, Motor Servo, Arduino IDE
+
 <<<<<<< HEAD
-01, Fatur, AhmadMarifaturKhoiron, linkedinku
-
-08, Izzati, izzatinursetyaa, linkedinku
-=======
-01,
-Ahmad Ma'rifatur Khoiron,
-AhmadMarifaturKhoiron,
-https://www.linkedin.com/in/ahmad-ma-rifatur-khoiron-15b975291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app,
-Penerapan Jaringan Sensor Nirkabel dan Internet of Things (IoT) pada Pertanian Terpadu,
-5, April 2024,
-• DHT11 : Mengukur suhu dan kelembaban udara.• DS18B20 : Mengukur suhu air.• DF Robot Gravity v2 : Mengukur pH air., 
-NodeMCU ESP32, 
-• Relay : Mengontrol pompa air DC dan motor servo.
-• Pompa Air DC : Mengalirkan air dari kolam ke pipa paralon.
-• Motor Servo : Menggerakkan mekanisme pemberian pakan ikan secara otomatis.,
-• Website aplikasi : Sebagai antarmuka pengguna.
-• Firebase : Database real-time berbasis cloud.
-• XAMPP & MySQL : Pengelolaan database lokal.
-• Arduino IDE & Visual Studio Code : Untuk pemrograman mikrokontroler dan
-pengembangan aplikasi web.
-
 09, Kevin Adrian Cavalera, kevincavalera99-ctrl, https://id.linkedin.com/in/kevin-cavalera-5a0b6221b, Pengembangan Model Aplikasi Smart Farming Berbasis Internet of Things (IoT), 2025, (DHT11; Soil Moisture Sensor; DS18B20), (Relay; Pompa air), (ESP32 Wifi; Firebase Cloud),(Firebase Realtime Database; Jembatani App)
 
+=======
+04, Bayu Ferdyan Pratiknyo, Bayufrdyn,
+05, Danny Ardiansyah, Towengg,
+07, Gilang Wahyu Setiawan, GilangWS137
+>>>>>>> fb58c0b6b12481fc1729b85e2da8fcfddcbf1564
 08, Izzati Nursetya, izzatinursetyaa, 
-
 11, Muhammad Fadhil N., Fadhilnugraha13,
+<<<<<<< HEAD
+12. Muhammad Haikal Fatar, YazzHax
+13. Nesya Rahmania, nesyarahmaniaa.sys, 
+=======
+
+<<<<<<< HEAD
+12. Muhammad Haikal Fatar, YazzHax
+>>>>>>>
+<<<<<<< HEAD
+15. Rafi Arviansyah, RafiArviansyah
+
+
+
+
+
+
+
+
+>>>>>>> 71ba146 (Update jtd3c.txt)
+
+17, Regan Ahmad Dabit, reganjtd, https://www.linkedin.com/in/regan-ahmad-663200385, Perancangan Sistem MonitoringKelembaban Tanah dan Penyiraman Otomatis Berbasis Wireless Sensor NetworkDengan LoRa,2024,Lynx32 Lora ,Relay modul & Water valve ,LCD Display 16x2
+
