@@ -21,6 +21,8 @@ NodeMCU ESP32,
 • Arduino IDE & Visual Studio Code : Untuk pemrograman mikrokontroler dan
 pengembangan aplikasi web.
 
+09, Kevin Adrian Cavalera, kevincavalera99-ctrl, https://id.linkedin.com/in/kevin-cavalera-5a0b6221b, Pengembangan Model Aplikasi Smart Farming Berbasis Internet of Things (IoT), 2025, (DHT11; Soil Moisture Sensor; DS18B20), (Relay; Pompa air), (ESP32 Wifi; Firebase Cloud),(Firebase Realtime Database; Jembatani App)
+
 08, Izzati Nursetya, izzatinursetyaa, 
 
 11, Muhammad Fadhil N., Fadhilnugraha13,
