@@ -15,3 +15,10 @@ NodeMCU ESP32,
 • XAMPP & MySQL : Pengelolaan database lokal.
 • Arduino IDE & Visual Studio Code : Untuk pemrograman mikrokontroler dan
 pengembangan aplikasi web.
+
+
+
+
+13, Nesya Rahmania Fuanny,nesyarahmaniaa.sys,Implementasi Wireless Sensor Network pada Pendeteksi Tanah Longsor Berbasis Internet of Things (IoT) dan LoRa, April 2025,
+MPU6050 (gyroscope/accelerometer), YL-69 Soil Moisture Sensor, GPS Neo-6M, Arduino Nano, ESP32, Buzzer, Adafruit IO, Telegram
+
