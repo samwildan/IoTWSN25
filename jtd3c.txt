@@ -2,38 +2,21 @@
 01,Ahmad Ma'rifatur Khoiron,AhmadMarifaturKhoiron, https://www.linkedin.com/in/ahmad-ma-rifatur-khoiron-15b975291?, Penerapan Jaringan Sensor Nirkabel dan Internet of Things (IoT) pada Pertanian Terpadu,2024, DHT11, NodeMCU ESP32, Motor Servo, Arduino IDE
 Safira Yuniarti, andinisafiraa10,
 02, Andini Safira Yuniarti, andinisafiraa10,
+03, Arya Wijayanto, mplementasi Wireless Sensor Network pada Pendeteksi Tanah Longsor Berbasis Internet of Things (IoT) dan LoRa, April 2025, MPU6050 (gyroscope/accelerometer), YL-69 Soil Moisture Sensor,  GPS Neo-6M, Arduino Nano, ESP32, Buzzer, Adafruit IO, Telegram.
 04, Bayu Ferdyan Pratiknyo, Bayufrdyn,
 05, Danny Ardiansyah, Towengg,
 06, Davina Oka Amelia Putri Dika, davinaoka, https://www.linkedin.com/in/davina-oka-amelia-putri-dika-99220b385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app, Pengembangan Model Aplikasi Smart Farming Berbasis Internet of Things (IoT), 2025, Sensor DHT11 & Sensor DS18B20, Relay, Firebase & Android App (Jembatani App)
 07, Gilang Wahyu Setiawan, GilangWS137
 08, Izzati Nursetya, izzatinursetyaa, www.linkedin.com/in/izzati-nursetya-812205272, Pengembangan Model Aplikasi Smart Farming Berbasis Internet of Things (IoT), 2025, Sensor DHT11 & Sensor DS18B20, Relay, Firebase & Android App (Jembatani App)
 09, Kevin Adrian Cavalera, kevincavalera99-ctrl, https://id.linkedin.com/in/kevin-cavalera-5a0b6221b, Pengembangan Model Aplikasi Smart Farming Berbasis Internet of Things (IoT), 2025, (DHT11; Soil Moisture Sensor; DS18B20), (Relay; Pompa air), (ESP32 Wifi; Firebase Cloud),(Firebase Realtime Database; Jembatani App)
-<<<<<<< HEAD
-10,
+10, Mochamad Agung Adi Saputra, mplementasi Wireless Sensor Network pada Pendeteksi Tanah Longsor Berbasis Internet of Things (IoT) dan LoRa, April 2025, MPU6050 (gyroscope/accelerometer), YL-69 Soil Moisture Sensor,  GPS Neo-6M, Arduino Nano, ESP32, Buzzer, Adafruit IO, Telegram.
 11, Muhammad Fadhil N., Fadhilnugraha13,
 12. Muhammad Haikal Fatar, YazzHax
-13. Nesya Rahmania, nesyarahmaniaa.sys, 
-14, Paris Alfatier Rigan, parisrigan, Penerapan Jaringan Sensor Nirkabel dan Internet of Things (IoT) pada Pertanian Terpadu,2024, DHT11, NodeMCU ESP32, Motor Servo, Arduino IDE
-=======
-11, Muhammad Fadhil N., Fadhilnugraha13,
-12. Muhammad Haikal Fatar, YazzHax
-13. Nesya Rahmania, nesyarahmaniaa.sys
+13, Nesya Rahmania, nesyarahmaniaa.sys, www.linkedin.com/in/nesya-rahmania-fuannyy, Implementasi Wireless Sensor Network pada Pendeteksi Tanah Longsor Berbasis Internet of Things (IoT) dan LoRa, April 2025, MPU6050 (gyroscope/accelerometer), YL-69 Soil Moisture Sensor,  GPS Neo-6M, Arduino Nano, ESP32, Buzzer, Adafruit IO, Telegram.
 14, Paris Alfatier Rigan, parisrigan, Penerapan Jaringan Sensor Nirkabel dan Internet of Things (IoT) pada Pertanian Terpadu,2024, DHT11, NodeMCU ESP32, Motor Servo, Arduino IDE
 15. Rafi Arviansyah, RafiArviansyah
->>>>>>> a147912560d56f5b7b1cce8bad3d300518770f4b
 17, Regan Ahmad Dabit, reganjtd, https://www.linkedin.com/in/regan-ahmad-663200385, Perancangan Sistem MonitoringKelembaban Tanah dan Penyiraman Otomatis Berbasis Wireless Sensor NetworkDengan LoRa,2024,Lynx32 Lora ,Relay modul & Water valve ,LCD Display 16x2
-<<<<<<< HEAD
 18, Riyas Abdul Rahman, Riyasabd, LoRa Network-Based System for Monitoring the Agricultural Sector in Andean Areas: Case Study Ecuador, 2022, DHT21 & ML8511, ESP32, Relay, Thinger.io
-<<<<<<< HEAD
 19, yhoga alfandy,yhoga alfandy, yhogaalfandy, Perancangan Sistem Monitoring Kelembaban Tanah dan Penyiraman Otomatis
 Berbasis Wireless Sensor Network dengan LoRa, 1 Juni 2024.
-=======
 
-<<<<<<< HEAD
->>>>>>> 39afc4649194927dcfdf90bc2ef739cad6149b93
->>>>>>> 73b1afe0c8887bc8b67649dbe067aa6c85d641bc
-=======
->>>>>>> bb7baeb14df833d8f7336ae6ed8aef39e623408a
-=======
-18, Riyas Abdul Rahman, Riyasabd, LoRa Network-Based System for Monitoring the Agricultural Sector in Andean Areas: Case Study Ecuador, 2022, DHT21 & ML8511, ESP32, Relay, Thinger.io
->>>>>>> 65e92b868ec056c7d6e46a52fc69a4fd0c429f34
