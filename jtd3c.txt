@@ -1,1 +1,3 @@
 no, nama , github, linkedin, artikel, tahun, sensor, uc, actuator, platform
+17,Regan Ahmad Dabit,reganjtd
+
