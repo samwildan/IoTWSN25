@@ -16,6 +16,7 @@ No,Name,ArticleTitle,Year,Iot/WSN,Sensor,Microcontroller,Actuator,Platform,Acces
 16,Siti Romadhona Oktaviana, Buzzing with Intelligence: A Systematic Review of Smart Beehive Technologies, 2025, WSN, Environmental - Weather - Acoustic - Imaging - Hive Structural - Motion - Air Composition - Bee Activity Counter Sensors,not specified, not specified, b+WSN - Open Source Beehive(OSBH),LoRaWAN
 17,SyahrulHuda,AUTOMATIC_PLAN_WATERING_SYSTEM_WITH_IOT_FOR_MONITORING_AND_CONTROLLING_SOIL_MOISTURE,2024,IoT-WSN,SoilMoistureSensor,RASPBERRYPIE-ESP32,Water-Pump,Note-RED-Telegram,WiFi
 18,Thon Mading Gai,A zigbee-based wearable physiological parameters monitoring system,2012,WSN,Wearable,Body temperature, heart rate sensors,C8051F020,Not specified,Not specified,Zigbee module
-
+19,Athalaya Valencia Putra,ArticleTitle, Year, IoT/WSN, Sensor, Microcontroller, Actuator, Platform, AccessNetwork
+Long-Term Monitoring of Smart City Assets via Internet of Things and Low-Power Wide-Area Networks, 2020, IoT + WSN (LoRa-based asset tracking), Bosch BMA280 accelerometer; Bosch BME280 humidity & pressure sensor; ublox CAM-M8 GNSS receiver, ARM Cortex M0+ (Murata CMWX1ZZABZ-078 module with LoRa transceiver), Piezo-electric energy harvester + Lithium-Thionyl Chloride battery, Linux server (data processed in JSON), LoRa (LPWAN) with LoRaWAN gateways + Internet
 
 
