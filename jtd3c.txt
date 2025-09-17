@@ -70,7 +70,8 @@
 17, Regan Ahmad Dabit, reganjtd, https://www.linkedin.com/in/regan-ahmad-663200385, Perancangan Sistem MonitoringKelembaban Tanah dan Penyiraman Otomatis Berbasis Wireless Sensor NetworkDengan LoRa,2024,Lynx32 Lora ,Relay modul & Water valve ,LCD Display 16x2
 18, Riyas Abdul Rahman, Riyasabd, LoRa Network-Based System for Monitoring the Agricultural Sector in Andean Areas: Case Study Ecuador, 2022, DHT21 & ML8511, ESP32, Relay, Thinger.io
 <<<<<<< HEAD
-19, yhoga alfandy,yhoga alfandy
+19, yhoga alfandy,yhoga alfandy, yhogaalfandy, Perancangan Sistem Monitoring Kelembaban Tanah dan Penyiraman Otomatis
+Berbasis Wireless Sensor Network dengan LoRa, 1 Juni 2024.
 =======
 
 <<<<<<< HEAD
