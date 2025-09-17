@@ -5,9 +5,15 @@
 08, Izzati Nursetya, izzatinursetyaa, 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 02, Andini Safira Yuniarti, andinisafiraa10,
+=======
+07, Gilang Wahyu Setiawan, GilangWS137
+05, Danny Ardiansyah, Towengg,
+04, Bayu Ferdyan Pratiknyo, Bayufrdyn,
+>>>>>>> b927a67 (commitsatu)
 =======
 11, Muhammad Fadhil N., Fadhilnugraha13,
 >>>>>>> 4962d5946b86f6ef605625b2225acaf8f1123468
