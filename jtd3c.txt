@@ -15,3 +15,5 @@ NodeMCU ESP32,
 • XAMPP & MySQL : Pengelolaan database lokal.
 • Arduino IDE & Visual Studio Code : Untuk pemrograman mikrokontroler dan
 pengembangan aplikasi web.
+
+08, Izzati Nursetya, izzatinursetyaa, 
