@@ -1,4 +1,5 @@
 no, nama, github, linkedin, artikel, tahun, sensor, mikrokontroller, actuator, platform, cara-kerja
+<<<<<<< HEAD
 01, Afif Amsal, amsalbilek, https://www.linkedin.com/in/afif-amsal-5224b2385/, Development of the Multi-Channel Clustering Hierarchy Method for Increasing Performance in Wireless Sensor Network, 2024, Sensor Suhu, ATmega328, NodeMCU ESP8266, Arduino Uno dengan modul XBee, sensor mengambil data, mikrokontroler memproses dan mengirimkan data melalui modul XBee Zigbee ke koordinator, kemudian koordinator mengelola data tersebut dan dapat mengaktifkan aktuator untuk aksi pengendalian otomatis
 02, Afraden, AfradenAsyam, https://www.linkedin.com/in/afraden-asyam-133688385/,  Smart Healthy Schools: An IoT-enabled concept for multi-room dynamic air quality control, , mechanical ventilation units, sensor CO2, NDIR, mikrokontroller berbasis ARM Cortex-M, unit ventilasi mekanis, AulaSicura Platform ini merupakan sistem terpadu berbasis IoT yang menggabungkan sensor, perangkat komunikasi LoRa, dan antarmuka pengguna untuk memonitor parameter IAQ seperti konsentrasi CO₂, suhu, dan kelembapan secara waktu nyata, Pengumpulan data sensor LoRa di ruang kelas memantau CO2, suhu, dan kelembaban secara terus-menerus dan mengirimnya nirkabel ke node LoRaWAN yang melayani banyak ruang. Data diproses di server cloud, kemudian sistem menggunakan logika kontrol berbasis ambang batas CO2 (700, 1100, 1300 ppm) untuk mengaktifkan respons. Pada mode ventilasi alami, unit menampilkan peringatan visual dan suara dengan instruksi membuka jendela. Pada mode otomatis/hibrida, sistem mengirim sinyal kontrol melalui Modbus-LoRa untuk mengatur ventilasi mekanis menurunkan CO2.
 18, Thyo, AR-0731, linkedinku 
@@ -8,6 +9,15 @@ no, nama, github, linkedin, artikel, tahun, sensor, mikrokontroller, actuator, p
 18, Thyo, AR-0731, linkedinku 
 01, Afif Amsal, amsalbilek, linkedinku
 19, Wildan Zakaria A, MONYAAS, Wildan Zakaria Abdillah, Papaya Maturity Classification in MATLAB Platform using Lab Method and DHT11 Sensor, 2021, Arduino, DHT11, MATLAB, PAPAYA Maturity
+=======
+
+
+01, Afif Amsal, amsalbilek, https://www.linkedin.com/in/afif-amsal-5224b2385/, Development of the Multi-Channel Clustering Hierarchy Method for Increasing Performance in Wireless Sensor Network, 2024, Sensor Suhu, ATmega328, NodeMCU ESP8266, Arduino Uno dengan modul XBee, sensor mengambil data, mikrokontroler memproses dan mengirimkan data melalui modul XBee Zigbee ke koordinator, kemudian koordinator mengelola data tersebut dan dapat mengaktifkan aktuator untuk aksi pengendalian otomatis 
+17, Thyo Arvin, https://github.com/AR-0731, www.linkedin.com/in/thyo-arvin-064029385, Smart Healthy Schools: An IoT-enabled concept for multi-room dynamic air
+ quality control, 2024, sensor CO₂ NDIR, mikrokontroler berbasis ARM Cortex-M, unit ventilasi mekanis, AulaSicura Platform ini merupakan sistem terpadu berbasis IoT yang menggabungkan sensor, perangkat komunikasi LoRa, dan antarmuka pengguna untuk memonitor parameter IAQ seperti konsentrasi CO₂, suhu, dan kelembapan secara waktu nyata, Platform AulaSicura bekerja dengan mengandalkan sensor LoRa yang mengukur parameter kualitas udara dalam ruangan (IAQ) seperti CO₂, suhu, dan kelembapan. Data yang terkumpul dikirim secara nirkabel ke pusat cloud melalui jaringan LoRa untuk dianalisis dan divisualisasikan dalam dashboard, sehingga memungkinkan pemantauan real-time maupun analisis historis
+
+
+>>>>>>> c53218755bdec59880d01e6d8a4b969c2329dd6a
 18, Thyo, AR-0731, linkedinku 
 01, Afif Amsal, amsalbilek, linkedinku
 19, Wildan Zakaria A, MONYAAS, Wildan Zakaria Abdillah, Papaya Maturity Classification in MATLAB Platform using Lab Method and DHT11 Sensor, 2021, Arduino, DHT11, MATLAB, PAPAYA Maturity
@@ -17,3 +27,7 @@ no, nama, github, linkedin, artikel, tahun, sensor, mikrokontroller, actuator, p
 18, Thyo, AR-0731, linkedinku
 19, Wildan Zakaria A, MONYAAS, Wildan Zakaria Abdillah, Papaya Maturity Classification in MATLAB Platform using Lab Method and DHT11 Sensor, 2021, Arduino, DHT11, MATLAB, PAPAYA Maturity 
 
+<<<<<<< HEAD
+=======
+02, Afraden
+>>>>>>> c53218755bdec59880d01e6d8a4b969c2329dd6a
