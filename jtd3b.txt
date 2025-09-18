@@ -8,4 +8,4 @@ metode fuzzy logic untuk menentukan apakah aktuator (pompa) harus menyala atau m
 Pengendalian otomatis: Berdasarkan hasil pemrosesan fuzzy logic, aktuator diaktifkan untuk menyesuaikan suhu dan kelembaban. Pengendalian ini dijadwalkan empat kali sehari pada pukul 09.00, 11.00, 13.00, dan 16.00.
 Penyimpanan dan pemantauan: ESP32 yang terhubung ke receiver akan mengirimkan data secara real-time ke Cloud Firebase. Data ini kemudian ditampilkan di website untuk pemantauan yang optimal.
 18, Thyo, AR-0731, linkedinku 
-afraden 
+02, Afraden
