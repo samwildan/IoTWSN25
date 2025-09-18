@@ -9,6 +9,8 @@ no, nama, github, linkedin, artikel, tahun, sensor, mikrokontroller, actuator, p
 18, Thyo, AR-0731, linkedinku 
 01, Afif Amsal, amsalbilek, linkedinku
 19, Wildan Zakaria A, MONYAAS, Wildan Zakaria Abdillah, Papaya Maturity Classification in MATLAB Platform using Lab Method and DHT11 Sensor, 2021, Arduino, DHT11, MATLAB, PAPAYA Maturity
+05,Aryosatya Hadif Purnama,d4jtdaryosatya-max,www.linkedin.com/in/aryosatya-h-754028385,Papaya Maturity Classification in MATLAB Platform using Lab Method and DHT11 Sensor,2021,Sensor DHT11,Webcam A4 Tech PK-635G,Arduino Mega 2560,Buzzer BPI 1412PWL,Lampu LED Philips CorePro E27,matlab,Sistem dimulai dengan pengambilan citra buah menggunakan kamera, diikuti pengolahan citra untuk melakukan segmentasi agar memisahkan objek buah dari latar belakang. Kemudian fitur warna (seperti nilai dalam ruang warna spesifik) diekstraksi untuk menentukan tingkat kematangan buah. Selain itu, parameter lingkungan seperti suhu dan kelembapan diukur menggunakan sensor tambahan untuk meningkatkan akurasi. Semua data (citra, fitur warna, kondisi lingkungan) diproses oleh mikrokontroler atau komputer dengan algoritma klasifikasi untuk memutuskan kelas kematangan. Hasil klasifikasi kemudian ditampilkan, dan sistem dapat mengaktifkan aktuator seperti lampu atau alarm bila buah sudah mencapai kematangan tertentu atau mendekati overripe.
+
 =======
 
 <<<<<<< HEAD
