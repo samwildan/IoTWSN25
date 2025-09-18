@@ -30,4 +30,8 @@ no, nama, github, linkedin, artikel, tahun, sensor, mikrokontroller, actuator, p
 <<<<<<< HEAD
 =======
 02, Afraden
+<<<<<<< HEAD
 >>>>>>> c53218755bdec59880d01e6d8a4b969c2329dd6a
+=======
+04, Alfarel, alfarelS04, https://www.linkedin.com/in/alfarel-sasmita-0b4702374/, IMPLEMENTASI IoT UNTUK UNTUK PEREKAMAN DATA LINGKUNGAN LABORATORIUM SESUAI ISO/IEC 17025 : 2107, 2023, sensor suhu - sensor kelembaban - sensor tekanan udara, (MCU) ESP32, relay-motor, Sensor mengukur parameter lingkungan (suhu, kelembapan relatif, tekanan udara). Mikrokontroler (ESP32) membaca data dari sensor. Data dikirim lewat jaringan WiFi ke server. Data disimpan dan ditampilkan di website secara real-time untuk pemantauan. Validasi dilakukan: sensor dikalibrasi terhadap standar (termo- higrometer), kemudian hasil sensor dikoreksi (curve-fitting), dan dibandingkan dengan instrumen komersial sebagai pembanding. 6. Performa evaluasi: ketidakpastian pengukuran (±0,3 °C untuk suhu dan ±2,3 %RH untuk kelembapan relatif
+>>>>>>> cf2d7f1c4be66ccb1166db672704808c08bdbfd1
