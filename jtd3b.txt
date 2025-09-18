@@ -1,4 +1,4 @@
 no, nama, github, linkedin, artikel, tahun, sensor, mikrokontroller, actuator, platform, cara-kerja
 01, Afif Amsal, amsalbilek, https://www.linkedin.com/in/afif-amsal-5224b2385/, Development of the Multi-Channel Clustering Hierarchy Method for Increasing Performance in Wireless Sensor Network, 2024, Sensor Suhu, ATmega328, NodeMCU ESP8266, Arduino Uno dengan modul XBee, sensor mengambil data, mikrokontroler memproses dan mengirimkan data melalui modul XBee Zigbee ke koordinator, kemudian koordinator mengelola data tersebut dan dapat mengaktifkan aktuator untuk aksi pengendalian otomatis
 18, Thyo, AR-0731, linkedinku 
-
+06, Azzahra Florensia Rubianto,github: chacarubianto, Smart Healthy Schools: An IoT-enabled concept for multi-room dynamic air quality control, 2024, Sensor Indoor Air Quality (IAQ) LoRa,
