@@ -1,1 +1,2 @@
 no, nama, github, linkedin, artikel, tahun, sensor, mikrokontroller, actuator, platform, cara-kerja
+01, Afif Amsal, amsalbilek, linkedinku
