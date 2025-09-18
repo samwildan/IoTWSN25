@@ -1,2 +1,3 @@
 no, nama, github, linkedin, artikel, tahun, sensor, mikrokontroller, actuator, platform, cara-kerja
 18, Thyo, AR-0731, linkedinku 
+01, Afif Amsal, amsalbilek, linkedinku
