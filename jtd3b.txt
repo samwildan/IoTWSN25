@@ -1,0 +1,1 @@
+no, nama, github, linkedin, artikel, tahun, sensor, mikrokontroller, actuator, platform, cara-kerja
