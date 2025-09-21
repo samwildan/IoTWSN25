@@ -3,15 +3,15 @@
 Safira Yuniarti, andinisafiraa10,
 02, Andini Safira Yuniarti, andinisafiraa10,
 03, Arya Wijayanto, mplementasi Wireless Sensor Network pada Pendeteksi Tanah Longsor Berbasis Internet of Things (IoT) dan LoRa, April 2025, MPU6050 (gyroscope/accelerometer), YL-69 Soil Moisture Sensor,  GPS Neo-6M, Arduino Nano, ESP32, Buzzer, Adafruit IO, Telegram.
-04, Bayu Ferdyan Pratiknyo, Bayufrdyn,
-05, Danny Ardiansyah, Towengg,
+04, Bayu Ferdyan Pratiknyo, Bayufrdyn, Sistem Fall Detector , 2022 , MPU6050, NodeMCU ESP8266, (buzzer,LED) , Telegram Bot
+05, Danny Ardiansyah, Towengg, Sistem Fall Detector , 2022 , MPU6050, NodeMCU ESP8266, (buzzer,LED) , Telegram Bot
 06, Davina Oka Amelia Putri Dika, davinaoka, https://www.linkedin.com/in/davina-oka-amelia-putri-dika-99220b385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app, Pengembangan Model Aplikasi Smart Farming Berbasis Internet of Things (IoT), 2025, Sensor DHT11 & Sensor DS18B20, Relay, Firebase & Android App (Jembatani App)
 07, Gilang Wahyu Setiawan, GilangWS137, Penerapan Jaringan Sensor Nirkabel dan Internet of Things (IoT) pada Pertanian Terpadu,2024, DHT11, NodeMCU ESP32, Motor Servo, Arduino IDE
 08, Izzati Nursetya, izzatinursetyaa, www.linkedin.com/in/izzati-nursetya-812205272, Pengembangan Model Aplikasi Smart Farming Berbasis Internet of Things (IoT), 2025, Sensor DHT11 & Sensor DS18B20, Relay, Firebase & Android App (Jembatani App)
 09, Kevin Adrian Cavalera, kevincavalera99-ctrl, https://id.linkedin.com/in/kevin-cavalera-5a0b6221b, Pengembangan Model Aplikasi Smart Farming Berbasis Internet of Things (IoT), 2025, (DHT11; Soil Moisture Sensor; DS18B20), (Relay; Pompa air), (ESP32 Wifi; Firebase Cloud),(Firebase Realtime Database; Jembatani App)
 10, Mochamad Agung Adi Saputra,https://www.linkedin.com/in/agung-saputra-9250aa314/, implementasi Wireless Sensor Network pada Pendeteksi Tanah Longsor Berbasis Internet of Things (IoT) dan LoRa, April 2025, MPU6050 (gyroscope/accelerometer), YL-69 Soil Moisture Sensor,  GPS Neo-6M, Arduino Nano, ESP32, Buzzer, Adafruit IO, Telegram.
-11, Muhammad Fadhil N., Fadhilnugraha13,
-12. Muhammad Haikal Fatar, YazzHax
+11, Muhammad Fadhil N., Fadhilnugraha13,Sistem Fall Detector , 2022 , MPU6050, NodeMCU ESP8266, (buzzer,LED) , Telegram Bot
+12. Muhammad Haikal Fatar, YazzHax, Sistem Fall Detector , 2022 , MPU6050, NodeMCU ESP8266, (buzzer,LED) , Telegram Bot
 13, Nesya Rahmania, nesyarahmaniaa.sys, www.linkedin.com/in/nesya-rahmania-fuannyy, Implementasi Wireless Sensor Network pada Pendeteksi Tanah Longsor Berbasis Internet of Things (IoT) dan LoRa, April 2025, MPU6050 (gyroscope/accelerometer), YL-69 Soil Moisture Sensor,  GPS Neo-6M, Arduino Nano, ESP32, Buzzer, Adafruit IO, Telegram.
 14, Paris Alfatier Rigan, parisrigan, Penerapan Jaringan Sensor Nirkabel dan Internet of Things (IoT) pada Pertanian Terpadu,2024, DHT11, NodeMCU ESP32, Motor Servo, Arduino IDE
 15. Rafi Arviansyah, RafiArviansyah
