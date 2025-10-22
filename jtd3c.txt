@@ -12,7 +12,7 @@ Safira Yuniarti, andinisafiraa10,
 10, Mochamad Agung Adi Saputra,https://www.linkedin.com/in/agung-saputra-9250aa314/, implementasi Wireless Sensor Network pada Pendeteksi Tanah Longsor Berbasis Internet of Things (IoT) dan LoRa, April 2025, MPU6050 (gyroscope/accelerometer), YL-69 Soil Moisture Sensor,  GPS Neo-6M, Arduino Nano, ESP32, Buzzer, Adafruit IO, Telegram.
 11, Muhammad Fadhil N., Fadhilnugraha13,Sistem Fall Detector , 2022 , MPU6050, NodeMCU ESP8266, (buzzer,LED) , Telegram Bot
 12. Muhammad Haikal Fatar, YazzHax, Sistem Fall Detector , 2022 , MPU6050, NodeMCU ESP8266, (buzzer,LED) , Telegram Bot
-13, Nesya Rahmania Fuanny, nesyarahmaniaa.sys, www.linkedin.com/in/nesya-rahmania-fuannyy, Implementasi Wireless Sensor Network pada Pendeteksi Tanah Longsor Berbasis Internet of Things (IoT) dan LoRa, April 2025, MPU6050 (gyroscope/accelerometer), YL-69 Soil Moisture Sensor,  GPS Neo-6M, Arduino Nano, ESP32, Buzzer, Adafruit IO, Telegram.
+13, Nesya Rahmania Fuanny, nesyaaarf, www.linkedin.com/in/nesya-rahmania-fuannyy, Implementasi Wireless Sensor Network pada Pendeteksi Tanah Longsor Berbasis Internet of Things (IoT) dan LoRa, April 2025, MPU6050 (gyroscope/accelerometer), YL-69 Soil Moisture Sensor,  GPS Neo-6M, Arduino Nano, ESP32, Buzzer, Adafruit IO, Telegram.
 14, Paris Alfatier Rigan, parisrigan, Penerapan Jaringan Sensor Nirkabel dan Internet of Things (IoT) pada Pertanian Terpadu,2024, DHT11, NodeMCU ESP32, Motor Servo, Arduino IDE
 15. Rafi Arviansyah, RafiArviansyah
 17, Regan Ahmad Dabit, reganjtd, https://www.linkedin.com/in/regan-ahmad-663200385, Perancangan Sistem MonitoringKelembaban Tanah dan Penyiraman Otomatis Berbasis Wireless Sensor NetworkDengan LoRa,2024,Lynx32 Lora ,Relay modul & Water valve ,LCD Display 16x2
