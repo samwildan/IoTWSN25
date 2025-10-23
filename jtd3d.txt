@@ -15,7 +15,7 @@ no, nama, linkedin, microcontroller-project
 14, Mochamad Rizqi Nur'Azmi, www.linkedin.com/in/mochamad-rizqi-nur-azmi-383602376, Laser-Based Security System With RFID Integration
 15, Muhammad Zakky Habibie, https://www.linkedin.com/in/muhammad-zakky-habibie-058917383/, Pakan Ikan Otomatis & Sensor Keruh air
 16, Nursyam Hidayah, https://www.linkedin.com/in/nursyam-hidayah-527446384/, Sistem Jemuran Otomatis
-17, Satrio Wahyu Wibowo, https://www.linkedin.com/in/satrio-wibowo-52a277326/,Sistem Jemuran Otomatis
+17, Satrio Wahyu Wibowo, https://www.linkedin.com/in/satrio-wibowo-52a277326/,Sistem Jemuran Otomatis 
 18, Yudhistira Dwisasi Putra, https://www.linkedin.com/in/yudhistira-putra-04826a326/,Pakan ikan otomatis berbasis IoT
 System-project
 19, Zain Zaidan, https://www.linkedin.com/in/zain-zaidan-67b215220/, Sistem Jemuran Otomatis 
