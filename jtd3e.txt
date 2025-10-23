@@ -1,4 +1,4 @@
-no, nama, linkedin, proj-uc, sensor
+ino, nama, linkedin, proj-uc, sensor
 11, ziven, Mochamad Luhung Ziven Savero, Water Quality Monitoring System and Automatic Fish Feeder, PH 450 2C
 10, ardi, MOCH ARDIANSYAH,smart_stick,Ultrasonic_sensorhujan
 1, adit,Adithia Maulana Suryadi,HP,smart_stick,Ultrasonic_sensorhujan
