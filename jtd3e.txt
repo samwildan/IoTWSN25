@@ -17,4 +17,4 @@ ino, nama, linkedin, proj-uc, sensor
 15, Faiz, faiz ansharullah, smart home, DHT11
 07, Hafid Aziz Tabassam,https://www.linkedin.com/in/hafid-tabassam-967979384?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app, Smart Door, RFID
 14, Emil, Emilian ., smart home, DHT11
-05, Dimas, Dimas Adisyahrul, Water Quality Monitoring System and Automatic Fish Feeder, PH 450 2C
+05, Dimas,Dimas Adisyahrul, Water Quality Monitoring System and Automatic Fish Feeder, PH 450 2C
